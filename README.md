@@ -11,7 +11,6 @@ scipy==1.11.2
 tensorboard==2.13.0
 
 ###Convert 0, 1, 2 encoding to frequency information file
-####
 python 012_to_snp.py   
 python modified_SNP_freq.py
 ###New encoding of frequency information with alleles  
